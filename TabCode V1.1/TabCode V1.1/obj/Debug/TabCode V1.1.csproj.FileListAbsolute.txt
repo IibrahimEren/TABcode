@@ -1,0 +1,10 @@
+E:\Projeler\TabCode V1.1\TabCode V1.1\bin\Debug\TabCode V1.1.exe.config
+E:\Projeler\TabCode V1.1\TabCode V1.1\bin\Debug\TabCode V1.1.exe
+E:\Projeler\TabCode V1.1\TabCode V1.1\bin\Debug\TabCode V1.1.pdb
+E:\Projeler\TabCode V1.1\TabCode V1.1\obj\Debug\TabCode V1.1.csprojAssemblyReference.cache
+E:\Projeler\TabCode V1.1\TabCode V1.1\obj\Debug\TabCode_V1._1.Form1.resources
+E:\Projeler\TabCode V1.1\TabCode V1.1\obj\Debug\TabCode_V1._1.Properties.Resources.resources
+E:\Projeler\TabCode V1.1\TabCode V1.1\obj\Debug\TabCode V1.1.csproj.GenerateResource.cache
+E:\Projeler\TabCode V1.1\TabCode V1.1\obj\Debug\TabCode V1.1.csproj.CoreCompileInputs.cache
+E:\Projeler\TabCode V1.1\TabCode V1.1\obj\Debug\TabCode V1.1.exe
+E:\Projeler\TabCode V1.1\TabCode V1.1\obj\Debug\TabCode V1.1.pdb
